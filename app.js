@@ -25,3 +25,4 @@
 
 // console.log(currentOS);
 
+console.log('hello people')
